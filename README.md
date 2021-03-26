@@ -6,3 +6,5 @@ This is a for a school project. We are learning the basics of javascript and eac
 I learned a lot from this project but I am by far not an expert in this.
 
 This was a very cool idea!
+
+Here is my project : https://dylear.github.io/logo-generator/
