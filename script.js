@@ -33,3 +33,15 @@ if (randomShape == 1) {
     context.strokeStyle = '#000';
     context.stroke();
 }
+
+
+function submit() {
+
+    var textfield = document.getElementById("comments");
+    var text = textfield.value;
+
+    context.font = "30px Arial";
+    context.fillText(text, 10, 50);
+  
+  }
+  
